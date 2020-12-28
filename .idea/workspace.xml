@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d94a37d0-d952-47d5-99b6-c26943dec066" name="Default Changelist" comment="">
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-889870221-1234934608-1675976114-500/$ISQ0ES0.iml" afterDir="false" />
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-889870221-1234934608-1675976114-500/$R6W2JCX/allweing-springboot/allweing-springboot.iml" afterDir="false" />
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-889870221-1234934608-1675976114-500/$R6W2JCX/springboot08.iml" afterDir="false" />
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-889870221-1234934608-1675976114-500/$RSQ0ES0.iml" afterDir="false" />
+      <change afterPath="F:/cloud-alibaba/cloud-alibaba-config-client3377/cloud-alibaba-config-client3377.iml" afterDir="false" />
+      <change afterPath="F:/cloud-alibaba/cloud-alibaba.iml" afterDir="false" />
+      <change afterPath="F:/elasticsearch/src/main/java/com/allweing/elasticsearch/controller/ElasticSearchController.java" afterDir="false" />
+      <change afterPath="F:/elasticsearch/src/main/java/com/allweing/elasticsearch/pojo/Item.java" afterDir="false" />
+      <change afterPath="F:/elasticsearch/src/main/java/com/allweing/elasticsearch/pojo/User.java" afterDir="false" />
+      <change afterPath="F:/elasticsearch/src/main/java/com/allweing/elasticsearch/respository/ItemRespository.java" afterDir="false" />
+      <change afterPath="F:/elasticsearch/src/main/java/com/allweing/elasticsearch/respository/UserRespository.java" afterDir="false" />
+      <change afterPath="F:/elasticsearch/src/test/java/com/allweing/elasticsearch/IndexText.java" afterDir="false" />
+      <change afterPath="F:/java-test/designPatener/designPatener.iml" afterDir="false" />
+      <change afterPath="F:/java-test/java.iml" afterDir="false" />
+      <change afterPath="F:/java_learn/java_learn.iml" afterDir="false" />
+      <change afterPath="F:/java_learn/src/cn/allweing/day1/Human.java" afterDir="false" />
+      <change afterPath="F:/java_learn/src/cn/allweing/day1/Man.java" afterDir="false" />
+      <change afterPath="F:/java_learn/src/cn/allweing/day1/People.java" afterDir="false" />
+      <change afterPath="F:/java_learn/src/cn/allweing/day1/Teacher.java" afterDir="false" />
+      <change afterPath="F:/java_learn/src/cn/allweing/day1/Test3.java" afterDir="false" />
+      <change afterPath="F:/java_learn/src/cn/allweing/day1/Thing.java" afterDir="false" />
+      <change afterPath="F:/java_learn/src/cn/allweing/day1/Wman.java" afterDir="false" />
+      <change afterPath="F:/java_learn/src/cn/allweing/day11/Parent/ParentImpl.java" afterDir="false" />
+      <change afterPath="F:/java_learn/src/cn/allweing/day11/Parent/Perent.java" afterDir="false" />
+      <change afterPath="F:/java_learn/src/cn/allweing/day11/Test.java" afterDir="false" />
+      <change afterPath="F:/java_learn/src/cn/allweing/day11/person/Person.java" afterDir="false" />
+      <change afterPath="F:/java_learn/src/cn/allweing/day11/person/PersonImpl.java" afterDir="false" />
+      <change afterPath="F:/java_learn/src/cn/allweing/day11/user/User.java" afterDir="false" />
+      <change afterPath="F:/java_learn/src/cn/allweing/day11/user/UserImpl.java" afterDir="false" />
+      <change afterPath="F:/java_learn/src/cn/allweing/day13/Test4.java" afterDir="false" />
+      <change afterPath="F:/java_learn/src/cn/allweing/day2/Woman.java" afterDir="false" />
+      <change afterPath="F:/js-demo/demo1.js" afterDir="false" />
+      <change afterPath="F:/js-demo/demo2.html" afterDir="false" />
+      <change afterPath="F:/js-demo/demo3.html" afterDir="false" />
+      <change afterPath="F:/js-demo/demo4.html" afterDir="false" />
+      <change afterPath="F:/js-demo/package-lock.json" afterDir="false" />
+      <change afterPath="F:/js-demo/package.json" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-auth/leyou-auth-common/pom.xml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-auth/leyou-auth-common/src/main/java/com/leyou/entity/UserInfo.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-auth/leyou-auth-common/src/main/java/com/leyou/utils/JwtConstans.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-auth/leyou-auth-common/src/main/java/com/leyou/utils/JwtUtils.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-auth/leyou-auth-common/src/main/java/com/leyou/utils/ObjectUtils.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-auth/leyou-auth-common/src/main/java/com/leyou/utils/RsaUtils.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-auth/leyou-auth-common/src/test/java/com/leyou/utils/RsaUtilsTest.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-auth/leyou-auth-service/pom.xml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-auth/leyou-auth-service/src/main/java/com/leyou/LeyouAuthApplication.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-auth/leyou-auth-service/src/main/java/com/leyou/client/UserClient.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-auth/leyou-auth-service/src/main/java/com/leyou/config/JwtProperties.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-auth/leyou-auth-service/src/main/java/com/leyou/controller/AuthController.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-auth/leyou-auth-service/src/main/java/com/leyou/service/AuthService.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-auth/leyou-auth-service/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-auth/pom.xml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-common/leyou-common.iml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-common/pom.xml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-common/src/main/java/com/leyou/common/PageResult.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-common/src/main/java/com/leyou/utils/CodecUtils.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-common/src/main/java/com/leyou/utils/CookieUtils.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-common/src/main/java/com/leyou/utils/NumberUtils.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-common/src/test/java/cn/allweing/Test.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-gateway/pom.xml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-gateway/src/main/java/com/leyou/LeyouGatewayApplication.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-gateway/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-goods-web/pom.xml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-goods-web/src/main/java/com/leyuo/LeyouGoodsWebApplication.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-goods-web/src/main/java/com/leyuo/client/BrandClient.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-goods-web/src/main/java/com/leyuo/client/CategoryClient.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-goods-web/src/main/java/com/leyuo/client/GoodsClient.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-goods-web/src/main/java/com/leyuo/client/SpecificationClient.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-goods-web/src/main/java/com/leyuo/controller/GoodsWebController.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-goods-web/src/main/java/com/leyuo/listener/GoodsHtmlListener.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-goods-web/src/main/java/com/leyuo/pojo/User.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-goods-web/src/main/java/com/leyuo/service/GoodsHtmlService.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-goods-web/src/main/java/com/leyuo/service/GoodsWebService.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-goods-web/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-goods-web/src/main/resources/templates/goods.html" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-goods-web/src/main/resources/templates/item.html" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-interface/leyou-item-interface.iml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-interface/pom.xml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-interface/src/main/java/com/leyou/api/BrandApi.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-interface/src/main/java/com/leyou/api/CategoryApi.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-interface/src/main/java/com/leyou/api/GoodsApi.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-interface/src/main/java/com/leyou/api/SpecificationApi.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-interface/src/main/java/com/leyou/bo/SpuBo.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-interface/src/main/java/com/leyou/pojo/Brand.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-interface/src/main/java/com/leyou/pojo/BrandSave.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-interface/src/main/java/com/leyou/pojo/Category.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-interface/src/main/java/com/leyou/pojo/CategoryBrand.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-interface/src/main/java/com/leyou/pojo/Sku.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-interface/src/main/java/com/leyou/pojo/SpecGroup.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-interface/src/main/java/com/leyou/pojo/SpecParam.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-interface/src/main/java/com/leyou/pojo/Spu.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-interface/src/main/java/com/leyou/pojo/SpuDedail.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-interface/src/main/java/com/leyou/pojo/Stock.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/leyou-item-service.iml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/pom.xml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/LeyouItemServiceApplication.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/config/ItemConfig.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/controller/BrandController.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/controller/GoodsController.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/controller/SpecificationController.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/mapper/BrandMapper.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/mapper/CategoryBrandMapper.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/mapper/CategoryMapper.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/mapper/SkuMapper.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/mapper/SpecGroupMapper.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/mapper/SpecParamMapper.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/mapper/SpuDetailMapper.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/mapper/SpuMapper.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/mapper/StockMapper.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/service/BrandService.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/service/CategoryService.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/service/GoodsService.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/java/com/leyou/service/SpecificationService.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item-service/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/leyou-item.iml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-item/pom.xml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-mq/pom.xml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-mq/src/main/java/com/leyou/ConnectUtil.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-mq/src/main/java/com/leyou/Consutom.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-mq/src/main/java/com/leyou/Consutom2.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-mq/src/main/java/com/leyou/Send.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-mq/src/main/java/com/leyou/subscribe/Consumer1.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-mq/src/main/java/com/leyou/subscribe/Consumer2.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-mq/src/main/java/com/leyou/subscribe/Send.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-mq/src/main/java/com/leyou/subscribe2/ConnectUtil2.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-mq/src/main/java/com/leyou/subscribe2/Consumer1.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-mq/src/main/java/com/leyou/subscribe2/Send.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-registry/src/main/java/com/leyou/LeyouRegistryApplication.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-registry/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-search/pom.xml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-search/src/main/java/com/leyou/LeyouSearchServiceApplication.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-search/src/main/java/com/leyou/client/BrandClient.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-search/src/main/java/com/leyou/client/CategoryClient.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-search/src/main/java/com/leyou/client/GoodsClient.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-search/src/main/java/com/leyou/client/SpecificationClient.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-search/src/main/java/com/leyou/controller/SearchController.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-search/src/main/java/com/leyou/listener/GoodsSearchListener.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-search/src/main/java/com/leyou/pojo/Goods.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-search/src/main/java/com/leyou/pojo/SearchRequest.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-search/src/main/java/com/leyou/repository/GoodsRepository.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-search/src/main/java/com/leyou/service/SearchService.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-search/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-search/src/test/java/com/leyou/client/BrandClientTest.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-search/src/test/java/com/leyou/repository/GoodsRepositoryTest.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-sms-service/pom.xml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-sms-service/src/main/java/com/leyou/LeyouSmsApplication.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-sms-service/src/main/java/com/leyou/config/SmsProperties.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-sms-service/src/main/java/com/leyou/listener/SmsListener.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-sms-service/src/main/java/com/leyou/utils/SmsUtils.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-sms-service/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-test/pom.xml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-test/src/main/java/com/leyou/TestApplication.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-test/src/main/java/com/leyou/controller/TestController.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-test/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-upload/leyou-upload.iml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-upload/pom.xml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-upload/src/main/java/com/leyou/UploadServiceApplication.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-upload/src/main/java/com/leyou/controller/UploadController.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-upload/src/main/java/com/leyou/service/UploadService.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-upload/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-user/leyou-user-interface/pom.xml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-user/leyou-user-interface/src/main/java/com/leyou/api/UserApi.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-user/leyou-user-interface/src/main/java/com/leyou/pojo/User.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-user/leyou-user-service/pom.xml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-user/leyou-user-service/src/main/java/com/leyou/LeyouUserApplication.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-user/leyou-user-service/src/main/java/com/leyou/controller/UserController.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-user/leyou-user-service/src/main/java/com/leyou/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-user/leyou-user-service/src/main/java/com/leyou/service/UserService.java" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-user/leyou-user-service/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou-user/pom.xml" afterDir="false" />
+      <change afterPath="F:/leyou08/leyou08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/allweing/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/allweing/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/allweing/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/allweing/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/allweing/spring/AllweingApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/allweing/spring/Autowired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/allweing/spring/BeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/allweing/spring/BeanNameAware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/allweing/spring/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/allweing/spring/ComponentScan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/allweing/spring/InitializingBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/allweing/spring/Scope.java" afterDir="false" />
+      <change afterPath="F:/myjava/leyou/leyou.iml" afterDir="false" />
+      <change afterPath="F:/myweb/package-lock.json" afterDir="false" />
+      <change afterPath="F:/myweb/package.json" afterDir="false" />
+      <change afterPath="F:/project/guli-parent/guli-parent.iml" afterDir="false" />
+      <change afterPath="F:/project/guli-parent/service/service-edu/src/test/java/cn/allweing/CodeGenerator.java" afterDir="false" />
+      <change afterPath="F:/project/java-base/java-base.iml" afterDir="false" />
+      <change afterPath="F:/project/java-base/src/main/java/cn/allweing/DesignPattern/Observer/BinaryObserver.java" afterDir="false" />
+      <change afterPath="F:/project/java-base/src/main/java/cn/allweing/DesignPattern/Observer/HexaObserver.java" afterDir="false" />
+      <change afterPath="F:/project/java-base/src/main/java/cn/allweing/DesignPattern/Observer/Observer.java" afterDir="false" />
+      <change afterPath="F:/project/java-base/src/main/java/cn/allweing/DesignPattern/Observer/ObserverPatternDemo.java" afterDir="false" />
+      <change afterPath="F:/project/java-base/src/main/java/cn/allweing/DesignPattern/Observer/OctalObserver.java" afterDir="false" />
+      <change afterPath="F:/project/java-base/src/main/java/cn/allweing/DesignPattern/Observer/Subject.java" afterDir="false" />
+      <change afterPath="F:/project/java-base/src/main/java/cn/allweing/dataSwich/Demo1.java" afterDir="false" />
+      <change afterPath="F:/project/java-base/src/main/java/cn/allweing/dataSwich/Demo2.java" afterDir="false" />
+      <change afterPath="F:/project/java-base/src/main/java/cn/allweing/test/Demo1.java" afterDir="false" />
+      <change afterPath="F:/project/java-base/src/main/java/cn/allweing/test/People.java" afterDir="false" />
+      <change afterPath="F:/project/java-base/src/main/java/cn/allweing/test/Person.java" afterDir="false" />
+      <change afterPath="F:/project/java-base/src/main/java/cn/allweing/test/Seasion.java" afterDir="false" />
+      <change afterPath="F:/project/java-base/src/main/java/cn/allweing/test/Seasion1.java" afterDir="false" />
+      <change afterPath="F:/project/java-base/src/main/java/cn/allweing/test/Student.java" afterDir="false" />
+      <change afterPath="F:/project/java-base/src/main/java/cn/allweing/test/User.java" afterDir="false" />
+      <change afterPath="F:/project/springcloud-parent/springcloud-parent.iml" afterDir="false" />
+      <change afterPath="F:/spring-learn/spring-learn.iml" afterDir="false" />
+      <change afterPath="F:/spring-shiro/spring-shiro.iml" afterDir="false" />
+      <change afterPath="F:/spring/spring.iml" afterDir="false" />
+      <change afterPath="F:/spring08/spring08.iml" afterDir="false" />
+      <change afterPath="F:/spring08/src/main/java/com/allweing/AspectClass.java" afterDir="false" />
+      <change afterPath="F:/spring08/src/main/java/com/allweing/Config.java" afterDir="false" />
+      <change afterPath="F:/spring08/src/main/java/com/allweing/MybatisTest.java" afterDir="false" />
+      <change afterPath="F:/spring08/src/main/java/com/allweing/Spec.java" afterDir="false" />
+      <change afterPath="F:/spring08/src/main/java/com/allweing/SpecMapper.java" afterDir="false" />
+      <change afterPath="F:/spring08/src/main/java/com/allweing/StudentImpl.java" afterDir="false" />
+      <change afterPath="F:/spring08/src/main/java/com/allweing/Test.java" afterDir="false" />
+      <change afterPath="F:/spring08/src/main/java/com/allweing/UserImpl.java" afterDir="false" />
+      <change afterPath="F:/spring08/src/main/resources/com.allweing.mapper/SpecMapper.xml" afterDir="false" />
+      <change afterPath="F:/spring08/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="F:/springboot08/allweing-springboot/src/main/java/com/allweing/TestApplication.java" afterDir="false" />
+      <change afterPath="F:/springboot08/allweing-springboot/src/main/java/com/allweing/config/MyWebConfig.java" afterDir="false" />
+      <change afterPath="F:/springboot08/allweing-springboot/src/main/java/com/allweing/controller/HelloController.java" afterDir="false" />
+      <change afterPath="F:/springboot08/allweing-springboot/src/main/java/com/allweing/intercepors/MyInterceptor.java" afterDir="false" />
+      <change afterPath="F:/springboot08/allweing-springboot/src/main/java/com/allweing/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="F:/springboot08/allweing-springboot/src/main/java/com/allweing/pojo/User.java" afterDir="false" />
+      <change afterPath="F:/springboot08/allweing-springboot/src/main/java/com/allweing/service/UserService.java" afterDir="false" />
+      <change afterPath="F:/springboot08/allweing-springboot/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="F:/springboot08/allweing-springboot/src/main/resources/static/love.jpg" afterDir="false" />
+      <change afterPath="F:/springboot08/allweing-springboot/src/main/resources/static/user.html" afterDir="false" />
+      <change afterPath="F:/springboot08/allweing-springboot/src/main/resources/templates/user.html" afterDir="false" />
+      <change afterPath="F:/springcloud08/service-customer/src/main/java/com/allweing/clients/UserClient.java" afterDir="false" />
+      <change afterPath="F:/springcloud08/service-customer/src/main/java/com/allweing/clients/UserClientFallback.java" afterDir="false" />
+      <change afterPath="F:/springcloud08/service-customer/src/main/java/com/allweing/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="F:/springcloud08/service-customer/src/main/java/com/allweing/pojo/User.java" afterDir="false" />
+      <change afterPath="F:/springcloud08/service-customer/src/main/resources/templates/error.html" afterDir="false" />
+      <change afterPath="F:/springcloud08/service-provider/src/main/java/com/allweing/controller/UserController.java" afterDir="false" />
+      <change afterPath="F:/springcloud08/service-provider/src/main/java/com/allweing/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="F:/springcloud08/service-provider/src/main/java/com/allweing/pojo/User.java" afterDir="false" />
+      <change afterPath="F:/springcloud08/service-provider/src/main/java/com/allweing/service/UserService.java" afterDir="false" />
+      <change afterPath="F:/springcloud08/service-zuul/src/main/java/com/allweing/filter/MyFilter.java" afterDir="false" />
+      <change afterPath="F:/springcloud08/springcloud08.iml" afterDir="false" />
+      <change afterPath="F:/ssm/ssm.iml" afterDir="false" />
+      <change afterPath="F:/ssm02/ssm02.iml" afterDir="false" />
+      <change afterPath="F:/vue-shop/vue-shop.iml" afterDir="false" />
+      <change afterPath="F:/vue08/hello.html" afterDir="false" />
+      <change afterPath="F:/vue08/hellow2.html" afterDir="false" />
+      <change afterPath="F:/vue08/package-lock.json" afterDir="false" />
+      <change afterPath="F:/vue08/package.json" afterDir="false" />
+      <change afterPath="F:/vue08/src/index.html" afterDir="false" />
+      <change afterPath="F:/vue08/src/index2.html" afterDir="false" />
+      <change afterPath="F:/vue08/src/js/loginFrom.js" afterDir="false" />
+      <change afterPath="F:/vue08/src/js/registerFrom.js" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/pom.xml" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/classes/com/yiguang/JiaMiApplication.class" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/classes/com/yiguang/controller/JiaMIController.class" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT.war.original" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/classes/com/yiguang/JiaMiApplication.class" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/classes/com/yiguang/controller/JiaMIController.class" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/classmate-1.3.4.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/hibernate-validator-6.0.13.Final.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.9.0.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.9.7.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.9.7.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/jackson-datatype-jdk8-2.9.7.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/jackson-datatype-jsr310-2.9.7.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/jackson-module-parameter-names-2.9.7.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/javax.annotation-api-1.3.2.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/jul-to-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/log4j-api-2.10.0.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/log4j-to-slf4j-2.10.0.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/snakeyaml-1.19.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.0.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.0.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-2.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-autoconfigure-2.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-2.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-json-2.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-logging-2.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-web-2.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.0.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.0.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.0.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.0.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.0.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.0.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/target/yiguang-jiami-1.0-SNAPSHOT/WEB-INF/lib/validation-api-2.0.1.Final.jar" afterDir="false" />
+      <change afterPath="F:/yiguang-jiami/yiguang-jiami.iml" afterDir="false" />
+      <change afterPath="F:/yiguang/css/element/index.css" afterDir="false" />
+      <change afterPath="F:/yiguang/css/index.css" afterDir="false" />
+      <change afterPath="F:/yiguang/index.html" afterDir="false" />
+      <change afterPath="F:/yiguang/js/index.js" afterDir="false" />
+      <change afterPath="F:/yiguang/js/vue.min.js" afterDir="false" />
+      <change afterPath="F:/yiguang/package-lock.json" afterDir="false" />
+      <change afterPath="F:/yiguang/package.json" afterDir="false" />
+      <change beforePath="F:/guli-parent/common/common-utils/pom.xml" beforeDir="false" afterPath="F:/springcloud08/pom.xml" afterDir="false" />
+      <change beforePath="F:/guli-parent/common/common-utils/src/main/java/com/atguigu/commonutils/R.java" beforeDir="false" />
+      <change beforePath="F:/guli-parent/common/common-utils/src/main/java/com/atguigu/commonutils/ResultCode.java" beforeDir="false" />
+      <change beforePath="F:/guli-parent/common/service-base/pom.xml" beforeDir="false" afterPath="F:/leyou08/leyou-registry/pom.xml" afterDir="false" />
+      <change beforePath="F:/guli-parent/common/service-base/src/main/java/com/atguigu/servicebase/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="F:/guli-parent/common/service-base/src/main/java/com/atguigu/servicebase/handel/MyMateObjectHandel.java" beforeDir="false" />
+      <change beforePath="F:/guli-parent/service/service-edu/src/main/java/com/atguigu/eduservice/entity/vo/TeacherQuery.java" beforeDir="false" />
+      <change beforePath="F:/java/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="F:/java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="F:/java/.idea/vcs.xml" beforeDir="false" afterPath="F:/js-demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="F:/java/day1/pom.xml" beforeDir="false" />
+      <change beforePath="F:/java/day1/src/main/java/cn/allweing/TestArray.java" beforeDir="false" />
+      <change beforePath="F:/java/day1/src/main/java/cn/allweing/TestArray2.java" beforeDir="false" />
+      <change beforePath="F:/java/day1/src/main/java/cn/allweing/TestArray3.java" beforeDir="false" />
+      <change beforePath="F:/java/day1/src/main/java/cn/allweing/Testlass1.java" beforeDir="false" />
+      <change beforePath="F:/java/day1/src/main/java/cn/allweing/collections/TestList1.java" beforeDir="false" />
+      <change beforePath="F:/java/day1/src/main/java/cn/allweing/collections/TestList2.java" beforeDir="false" />
+      <change beforePath="F:/java/day1/src/main/java/cn/allweing/io/Testio1.java" beforeDir="false" />
+      <change beforePath="F:/java/day1/src/main/java/cn/allweing/thread/Testthread1.java" beforeDir="false" />
+      <change beforePath="F:/java/day1/src/main/java/cn/allweing/thread/Threadpool.java" beforeDir="false" />
+      <change beforePath="F:/java/day1/src/main/java/cn/allweing/thread/Ticketdemo.java" beforeDir="false" />
+      <change beforePath="F:/java/day1/src/main/java/cn/allweing/time/TestTime.java" beforeDir="false" />
+      <change beforePath="F:/java/day1/src/main/resources/static/DSC_0034.jpg" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="71" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/spring/BeanNameAware.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/spring/InitializingBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/AppConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/service/OrderService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="27" column="46" lean-forward="true" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+              <folding>
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/spring/Autowired.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/spring/AllweingApplicationContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="98" column="60" lean-forward="true" selection-start-line="98" selection-start-column="60" selection-end-line="98" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#325#349#0" expanded="true" />
+                <element signature="e#502#518#0" expanded="true" />
+                <element signature="e#773#780#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/spring/Scope.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/spring/BeanDefinition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding>
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="F:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/allweing/spring/ComponentScan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/allweing/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/allweing/spring/Component.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/allweing/spring/BeanDefinition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/allweing/spring/Scope.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/allweing/spring/Autowired.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/allweing/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/allweing/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/allweing/spring/InitializingBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/allweing/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/allweing/spring/BeanNameAware.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/allweing/spring/AllweingApplicationContext.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="90" />
+    <option name="width" value="1030" />
+    <option name="height" value="550" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="allweing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="allweing" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="allweing" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="F:/project" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.allweing.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.allweing.Test" />
+      <module name="spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allweing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d94a37d0-d952-47d5-99b6-c26943dec066" name="Default Changelist" comment="" />
+      <created>1609119762050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609119762050</updated>
+      <workItem from="1609119763883" duration="17669000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17669000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="UI Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3295583" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29331824" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997735" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="RestServices" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="applicationContext.singletonObject.entrySet().toArray()[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/spring/ComponentScan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/spring/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/spring/BeanDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/spring/Scope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/spring/Autowired.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/spring/InitializingBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="71" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/spring/BeanNameAware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="27" column="46" lean-forward="true" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+          <folding>
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/allweing/spring/AllweingApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="98" column="60" lean-forward="true" selection-start-line="98" selection-start-column="60" selection-end-line="98" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#325#349#0" expanded="true" />
+            <element signature="e#502#518#0" expanded="true" />
+            <element signature="e#773#780#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
